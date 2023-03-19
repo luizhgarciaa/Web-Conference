@@ -1,2 +1,2 @@
 # Web-Conference
-My first complete project.
+My first complete project, I developed this project, which consists of implementing a Conference Management Web application, it is my first project. With him I seek to enter the Web Development market, seeking to apply all phases of prototyping, production and development of the application, I used as a reference the book by the authors: Felipe Portela and Ricardo Queirós, "Introduction to Modern Development for the Web". the following technologies: HTML, CSS, BOOTSTRAP, JAVASCRIPT, HTTP(s), FETCH, REST, NODE.JS, EXPRESS, SEQUELIZE, MYSQL, PASSPORT, GITHUB, HEROKU.
